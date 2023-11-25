@@ -1,0 +1,7 @@
+Manual:
+
+-Selecciona una opcion con el mouse o pulsa Espacio para comenzar.
+-Muevete con las flechas del teclado.
+-Dispara con Espacio.
+-Para pausar pulsa ENTER.
+-Para salir pulsa ENTER + ESC.
